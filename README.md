@@ -1,7 +1,6 @@
 # PARSE AND GRAPH THE TWITTER TIMELIME OF ANY USER:
 
-## This Python script will analyse a twitter feed and draw a pie chart of the 10 most
-## used words.
+## This Python script will analyse a twitter feed and draw a pie chart of the 10 most used words.
 
 It has been inspired by the *MItx 6.001x* course and by *@yanofsky*
 
